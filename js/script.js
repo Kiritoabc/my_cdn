@@ -17,3 +17,5 @@
 
 
 // https://cdn.jsdelivr.net/gh/Kiritoabc/my_cdn/img/avatar1.jpg
+
+// https://cdn.jsdelivr.net/gh/Kiritoabc/my_cdn/img/kokomi.jpg
